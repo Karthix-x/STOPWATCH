@@ -2,4 +2,4 @@
 
 Stopwatch uisng HTML CSS JS Hosted with by GitHub💎
 
-Here is a preview of the Project.
+#### [CLICK HERE](https://karthix-x.github.io/STOPWATCH/) to  preview of the Project.
