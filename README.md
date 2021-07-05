@@ -1,6 +1,6 @@
 # STOPWATCH
 
-Stopwatch built using 👇
+Stopwatch web app built using 👇
 - HTML
 - CSS
 - JS
